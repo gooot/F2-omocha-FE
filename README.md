@@ -274,7 +274,7 @@
 
 ## ✍️ **ERD**
 
-![erd](https://github.com/gooot/ProjectImage/blob/main/Omocha/erd/omachaERD.png)
+![ERD](https://github.com/gooot/ProjectImage/blob/main/Omocha/erd/omochaERD.png)
 
 ## 💡 **System Architecture**
 
